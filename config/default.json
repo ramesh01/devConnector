@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://test_01:test_123@devconnector.dtex5g7.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://test_01:test_123@devconnector.dtex5g7.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "devConnectortoken"
 }
